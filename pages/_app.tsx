@@ -1,7 +1,10 @@
-import '../styles/globals.css'
-import type { AppProps } from 'next/app'
+// Imports
+import "@styles/global.scss";
 
-function MyApp({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+// Types
+import type { AppProps } from "next/app";
+
+// Export application
+export default function LootRNG({ Component, pageProps }: AppProps) {
+  return <Component {...pageProps} />;
 }
-export default MyApp
