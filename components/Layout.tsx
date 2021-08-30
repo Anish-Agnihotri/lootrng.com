@@ -46,7 +46,7 @@ function Head(): ReactElement {
         property="og:description"
         content="Loot is randomized adventurer gear generated and stored on chain."
       />
-      <meta property="og:image" content="https://www.lootrng.com/meta" />
+      <meta property="og:image" content="https://lootrng.com/meta.png" />
 
       {/* Twitter */}
       <meta property="twitter:card" content="summary_large_image" />
@@ -56,7 +56,7 @@ function Head(): ReactElement {
         property="twitter:description"
         content="Loot is randomized adventurer gear generated and stored on chain."
       />
-      <meta property="twitter:image" content="https://lootrng.com/meta" />
+      <meta property="twitter:image" content="https://lootrng.com/meta.png" />
 
       {/* Font */}
       <link rel="preconnect" href="https://fonts.googleapis.com" />
