@@ -46,6 +46,11 @@ export default function Resources(): ReactElement {
         "Floor tracker for bags containing Divine Robes by @worm#6888",
       url: "https://robes.market/",
     },
+    {
+      name: "Loot Rarity (library)",
+      description: "JavaScript library for items rarity levels by @bpierre",
+      url: "https://github.com/bpierre/loot-rarity",
+    },
   ];
 
   return (
